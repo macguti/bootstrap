@@ -16,3 +16,17 @@ min-height: 400px;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
+
+.jumbotron{
+    background: #9575cd;
+    margin: 0px auto;
+    padding: 70px 30px 70px 30px;
+    color:floralwhite;
+}
+
+.address{
+    color: #0f0f0f;
+    margin: 0px ;
+    
+    font-size: 80%
+}
